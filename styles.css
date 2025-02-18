@@ -6,36 +6,36 @@
             align-items: center;
             height: 100vh;
         }
-        .container {
+.container {
             background: #fff;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             width: 300px;
         }
-        .container h2 {
+.container h2 {
             text-align: center;
         }
-        label {
+.label {
             display: block;
             margin: 10px 0 5px;
         }
-        input, select {
+.input, select {
             width: 100%;
             padding: 8px;
             margin-bottom: 10px;
             border: 1px solid #ccc;
             border-radius: 5px;
         }
-        .checkbox {
+.checkbox {
             display: flex;
             align-items: center;
         }
-        .checkbox input {
+.checkbox input {
             width: auto;
             margin-right: 5px;
         }
-        button {
+.button {
             width: 100%;
             padding: 10px;
             background: #28a745;
@@ -44,6 +44,6 @@
             border-radius: 5px;
             cursor: pointer;
         }
-        button:hover {
+.button:hover {
             background: #218838;
         }
